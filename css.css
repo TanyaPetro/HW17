@@ -1,0 +1,57 @@
+body {
+    font-size: medium;
+}
+.red {
+    color:rgb(109, 46, 23)
+}
+.bag{
+    background: linear-gradient(to top, #dcf5f3, #c8f0ee );
+}
+div {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+}
+section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+button {
+    width: 80px;
+}
+img{
+    margin-bottom: 20px;
+}
+h3{
+    width: 300px;
+    text-align: center;
+}
+.blue {
+    color: blue;
+}
+.violet {
+    color:blueviolet;
+}
+.pink {
+    color:rgb(244, 181, 214);
+}
+.green{
+    color: green;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th, td {
+    border: 1px solid black;
+}
+td{
+    font-size:x-large;
+    font-style: italic;
+}
+th{
+    font-size: xx-large;
+    font-weight: bold;
+}
